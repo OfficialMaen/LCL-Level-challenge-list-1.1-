@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "admin1",
+      "email": "maencopra@gmail.com",
+      "displayName": "Admin",
+      "password": "maenissocool12345gGs",
+      "isAdmin": true
+    },
+    {
+      "id": "user_1773064751189",
+      "email": "speedcopra12@gmail.com",
+      "displayName": "maen2",
+      "password": "maen201422",
+      "isAdmin": false
+    },
+    {
+      "id": "user_1773155117246",
+      "email": "speed@gmail.com",
+      "displayName": "maen",
+      "password": "1234567890",
+      "isAdmin": false
+    }
+  ],
+  "levels": [],
+  "pendingLevels": [],
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "darkBackground": true
+  }
+}
